@@ -1,6 +1,4 @@
 from SimpleGraphics import *
 
 print("hello")
-
-
-print(900)
+print(9400)
